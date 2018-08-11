@@ -5,4 +5,4 @@ Self.bot é geralmente usado para usar uma conta do discord `("sim aquela que vo
 
 *(Vale citar também, não me responsabilizo pelo o que você ou outras pessoas irão fazer com este projeto. Não é problema meu. Também não dou suporte)*
  
- ##Então chega de conversa, vamos lá.
+ ## Então chega de conversa, vamos lá.
